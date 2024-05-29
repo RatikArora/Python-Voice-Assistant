@@ -5,7 +5,10 @@
 CHARLIE is a virtual assistant designed to help users with various tasks, ranging from providing the current date and time to fetching information from the web. The assistant can respond to natural language queries and perform actions such as opening websites, launching applications, converting speech to text, and more.
 
 ## Features
-
+### 0. To run it
+```python
+python run.py
+```
 ### 1. Greetings
 The assistant greets the user and asks how it can help.
 ```python
