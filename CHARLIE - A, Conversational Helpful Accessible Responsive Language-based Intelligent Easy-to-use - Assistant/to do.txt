@@ -1,0 +1,12 @@
+run the run.py file to run the assistant,
+and read the main1.py file and understand whats are the keywords that you can use to control it 
+todays date,
+tomorrows date,
+time,
+joke,
+open site,
+launch or open to open an application
+google or tell me to search google
+speech to text, convert to text, stt to access the speech to text program and send yourself the email of that text
+news to get latest news 
+
